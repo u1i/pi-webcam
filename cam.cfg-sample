@@ -1,0 +1,5 @@
+token="XXXXXX"
+b9y_host="https://b9y.example.com"
+b9y_route_pic="/routes/029d5284-204d-46d9-bddc-6cfbc5dda3a1"
+b9y_route_page="/routes/f77a2ac0-35b9-48e6-8a55-1814f7432ce0"
+export TZ=Asia/Singapore
