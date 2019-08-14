@@ -28,7 +28,9 @@ Re-connect with the CLI using these credentials and then do this:
 > route pic image/jpeg  
 > route page text/html  
 
-copy/paste the output into the respective lines of cam.cfg and then you simply run `webcam.sh`, maybe in a screen session!
+copy/paste the output into the respective lines of cam.cfg and then you simply run `webcam.sh`, maybe in a screen session.
+
+You can then access your live cam on $b9y\_host/$b9y\_route_page - for example `https://b9y.example.com/routes/f71f2ad1-45b9-42e6-8a69-1815f7432ce0`
 
 
 
